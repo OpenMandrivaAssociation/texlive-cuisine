@@ -49,3 +49,17 @@ step (somewhat similarly to the layout used in cooking).
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.5-2
++ Revision: 750727
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 0.5-1
++ Revision: 718184
+- texlive-cuisine
+- texlive-cuisine
+- texlive-cuisine
+- texlive-cuisine
+
