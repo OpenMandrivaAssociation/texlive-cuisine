@@ -6,7 +6,7 @@
 # catalog-version 0.5
 Name:		texlive-cuisine
 Version:	0.5
-Release:	4
+Release:	5
 Summary:	Typeset recipes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cuisine
