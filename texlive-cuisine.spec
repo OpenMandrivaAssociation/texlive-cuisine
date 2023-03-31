@@ -1,6 +1,6 @@
 Name:		texlive-cuisine
 Version:	34453
-Release:	1
+Release:	2
 Summary:	Typeset recipes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cuisine
